@@ -1,5 +1,6 @@
 import React from 'react';
 import './Logo.css';
+// eslint-disable-next-line
 import Tilt from 'react-tilt';
 import brain from './brain.png';
 
